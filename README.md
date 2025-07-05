@@ -12,7 +12,7 @@ A fullstack web app to help users write daily journal entries, track their moods
 - 📅 Calendar-style journal history
 - 📊 Dashboard with mood stats and charts
 - 🌙 Dark/Light mode toggle
-- 🔒 Supabase Auth + JWT-based API security
+- 🔒 JWT-based API security
 
 ---
 
